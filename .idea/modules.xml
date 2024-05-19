@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/yqkj.iml" filepath="$PROJECT_DIR$/.idea/yqkj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqkj-admin/yqkj-admin.iml" filepath="$PROJECT_DIR$/yqkj-admin/yqkj-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqkj-common/yqkj-common.iml" filepath="$PROJECT_DIR$/yqkj-common/yqkj-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqkj-framework/yqkj-framework.iml" filepath="$PROJECT_DIR$/yqkj-framework/yqkj-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqkj-generator/yqkj-generator.iml" filepath="$PROJECT_DIR$/yqkj-generator/yqkj-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqkj-quartz/yqkj-quartz.iml" filepath="$PROJECT_DIR$/yqkj-quartz/yqkj-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqkj-system/yqkj-system.iml" filepath="$PROJECT_DIR$/yqkj-system/yqkj-system.iml" />
+    </modules>
+  </component>
+</project>

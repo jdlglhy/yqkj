@@ -1,0 +1,13 @@
+com/scpc/qt/generator/mapper/GenTableMapper.class
+com/scpc/qt/generator/service/IGenTableColumnService.class
+com/scpc/qt/generator/service/IGenTableService.class
+com/scpc/qt/generator/util/VelocityUtils.class
+com/scpc/qt/generator/util/GenUtils.class
+com/scpc/qt/generator/controller/GenController.class
+com/scpc/qt/generator/mapper/GenTableColumnMapper.class
+com/scpc/qt/generator/service/GenTableColumnServiceImpl.class
+com/scpc/qt/generator/config/GenConfig.class
+com/scpc/qt/generator/domain/GenTableColumn.class
+com/scpc/qt/generator/service/GenTableServiceImpl.class
+com/scpc/qt/generator/domain/GenTable.class
+com/scpc/qt/generator/util/VelocityInitializer.class
